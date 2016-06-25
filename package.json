@@ -1,0 +1,18 @@
+{
+  "name": "react.framer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.coffee",
+  "dependencies": {
+    "framer": "^0.5.4",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-tap-event-plugin": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mjlescano",
+  "license": "MIT"
+}
