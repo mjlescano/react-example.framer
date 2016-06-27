@@ -6,8 +6,7 @@
   "dependencies": {
     "framer": "^0.5.4",
     "react": "^15.1.0",
-    "react-dom": "^15.1.0",
-    "react-tap-event-plugin": "^1.0.0"
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {},
   "scripts": {
